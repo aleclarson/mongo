@@ -1,0 +1,14 @@
+{
+  "name": "mongo",
+  "version": "1.1.1",
+  "description": "Adaptor for using MongoDB and Minimongo over DDP",
+  "dependencies": {
+    "check": "aleclarson/check#1.0.6",
+    "ddp": "aleclarson/ddp#1.2.0",
+    "ejson": "aleclarson/ejson#1.0.7",
+    "minimongo": "aleclarson/minimongo#1.0.9",
+    "mongo-id": "aleclarson/mongo-id#1.0.0",
+    "random": "aleclarson/random#1.0.4",
+    "underscore": "aleclarson/underscore#1.5.2"
+  }
+}
